@@ -1,2 +1,2 @@
 # JavaProjects
-This repository contains the various java programs to refer
+This repository contains the various Java programs to refer
