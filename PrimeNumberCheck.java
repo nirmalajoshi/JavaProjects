@@ -1,3 +1,4 @@
+//push changes to github
 public class PrimeNumberCheck{    
  public static void main(String args[]){    
   int i,m=0,flag=0;      
